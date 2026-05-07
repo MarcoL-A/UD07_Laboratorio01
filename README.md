@@ -19,7 +19,7 @@ Ahora nos piden modificar un XML el cual sería este:
 Y a continuaciónvoy ha modificar la plantilla QWeb del informe utilizando Bootstrap para la estructura y CSS inline para asegurar que el color rojo del CIF y los bordes se impriman correctamente en el PDF. Al integrarlo directamente en la arquitectura de vistas de Odoo, el cambio es automático, permanente y afecta a todos los presupuestos del sistema sin intervención manual.
 <img width="746" height="114" alt="image" src="https://github.com/user-attachments/assets/a1edefe0-7bc6-4757-bae1-39b117d94068" />
 
-## Fase 3: Exportación de Información:
+## Fase 3: Exportación de Información
 Una vez ya hehco todo esto voy a hacer exportaciones de información, donde a través de facturación, cliente, cliente, voy a seleccionar todos los clientes para poder exportar toda la información sobre estos dentre de facturación:
 <img width="905" height="604" alt="image" src="https://github.com/user-attachments/assets/1de77fee-e2eb-4759-87b6-62cdc30de2d0" />
 Y ya con todo estomodificamos los ajustes de exportación y ya lo exportamos:
