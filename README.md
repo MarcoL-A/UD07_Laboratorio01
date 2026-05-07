@@ -12,12 +12,14 @@ Una vez ya subidos los clientes a nuestro Odoo voy a crear un presupuesto para u
 Ya terminado de rellenar sus datos voy a terminar de confirmar este pedido para que se vea como si se hubiera completado a la perfección, teniendo como resultado final esto:
 <img width="1337" height="562" alt="image" src="https://github.com/user-attachments/assets/8f083215-004b-4842-bb17-dd4586d8f22a" />
 
+## Fase 2: Elaboración de Informes:
 Ahora nos piden modificar un XML el cual sería este:
 <img width="508" height="403" alt="image" src="https://github.com/user-attachments/assets/20e5feee-aa5c-4b33-9104-f060974620a2" />
 
 Y a continuaciónvoy ha modificar la plantilla QWeb del informe utilizando Bootstrap para la estructura y CSS inline para asegurar que el color rojo del CIF y los bordes se impriman correctamente en el PDF. Al integrarlo directamente en la arquitectura de vistas de Odoo, el cambio es automático, permanente y afecta a todos los presupuestos del sistema sin intervención manual.
 <img width="746" height="114" alt="image" src="https://github.com/user-attachments/assets/a1edefe0-7bc6-4757-bae1-39b117d94068" />
 
+## Fase 3: Exportación de Información:
 Una vez ya hehco todo esto voy a hacer exportaciones de información, donde a través de facturación, cliente, cliente, voy a seleccionar todos los clientes para poder exportar toda la información sobre estos dentre de facturación:
 <img width="905" height="604" alt="image" src="https://github.com/user-attachments/assets/1de77fee-e2eb-4759-87b6-62cdc30de2d0" />
 Y ya con todo estomodificamos los ajustes de exportación y ya lo exportamos:
